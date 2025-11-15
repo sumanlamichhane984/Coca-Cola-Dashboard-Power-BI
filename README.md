@@ -1,6 +1,6 @@
 # Coca-Cola-Dashboard
 Power BI dashboard analyzing Coca-Cola sales data, including KPIs, trends, delivery trends and product performance.
-Coca-Cola Sales & Logistics Dashboard 📊
+Coca-Cola Sales & Logistics Dashboard�
 
 This repository presents a comprehensive Power BI project analyzing Coca-Cola's sales performance, profitability, and logistics efficiency across regions and delivery partners. It includes interactive dashboards, datasets, and visual insights designed to support strategic business decisions.
 
